@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\SqlBaglantiUygulamasi\SqlBaglantiUygulamasi\bin\Debug\SqlBaglantiUygulamasi.exe.config
+C:\Users\DELL\source\repos\SqlBaglantiUygulamasi\SqlBaglantiUygulamasi\bin\Debug\SqlBaglantiUygulamasi.exe
+C:\Users\DELL\source\repos\SqlBaglantiUygulamasi\SqlBaglantiUygulamasi\bin\Debug\SqlBaglantiUygulamasi.pdb
+C:\Users\DELL\source\repos\SqlBaglantiUygulamasi\SqlBaglantiUygulamasi\obj\Debug\SqlBaglantiUygulamasi.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\SqlBaglantiUygulamasi\SqlBaglantiUygulamasi\obj\Debug\SqlBaglantiUygulamasi.Form1.resources
+C:\Users\DELL\source\repos\SqlBaglantiUygulamasi\SqlBaglantiUygulamasi\obj\Debug\SqlBaglantiUygulamasi.Properties.Resources.resources
+C:\Users\DELL\source\repos\SqlBaglantiUygulamasi\SqlBaglantiUygulamasi\obj\Debug\SqlBaglantiUygulamasi.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SqlBaglantiUygulamasi\SqlBaglantiUygulamasi\obj\Debug\SqlBaglantiUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SqlBaglantiUygulamasi\SqlBaglantiUygulamasi\obj\Debug\SqlBaglantiUygulamasi.exe
+C:\Users\DELL\source\repos\SqlBaglantiUygulamasi\SqlBaglantiUygulamasi\obj\Debug\SqlBaglantiUygulamasi.pdb
