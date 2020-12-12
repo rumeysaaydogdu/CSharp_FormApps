@@ -1,2 +1,2 @@
-# CSharp_Windows_Form_Application
-Tek bir proje içermiyor. Farklı, küçük uygulamalar mevcut.
+# C# Windows Form Applications
+This repo doesn't contain just a single project. There are some different, small samples. Will be developed in time!
