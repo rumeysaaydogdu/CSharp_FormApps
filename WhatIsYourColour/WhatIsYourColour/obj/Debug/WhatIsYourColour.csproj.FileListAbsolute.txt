@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\WhatIsYourColour\WhatIsYourColour\bin\Debug\WhatIsYourColour.exe.config
+C:\Users\DELL\source\repos\WhatIsYourColour\WhatIsYourColour\bin\Debug\WhatIsYourColour.exe
+C:\Users\DELL\source\repos\WhatIsYourColour\WhatIsYourColour\bin\Debug\WhatIsYourColour.pdb
+C:\Users\DELL\source\repos\WhatIsYourColour\WhatIsYourColour\obj\Debug\WhatIsYourColour.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\WhatIsYourColour\WhatIsYourColour\obj\Debug\WhatIsYourColour.Form1.resources
+C:\Users\DELL\source\repos\WhatIsYourColour\WhatIsYourColour\obj\Debug\WhatIsYourColour.Properties.Resources.resources
+C:\Users\DELL\source\repos\WhatIsYourColour\WhatIsYourColour\obj\Debug\WhatIsYourColour.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\WhatIsYourColour\WhatIsYourColour\obj\Debug\WhatIsYourColour.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WhatIsYourColour\WhatIsYourColour\obj\Debug\WhatIsYourColour.exe
+C:\Users\DELL\source\repos\WhatIsYourColour\WhatIsYourColour\obj\Debug\WhatIsYourColour.pdb
+C:\Users\DELL\source\repos\WhatIsYourColour\WhatIsYourColour\obj\Debug\WhatIsYourColour.Form2.resources
