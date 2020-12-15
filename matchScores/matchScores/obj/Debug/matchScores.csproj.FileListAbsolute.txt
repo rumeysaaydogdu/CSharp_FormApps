@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\matchScores\matchScores\bin\Debug\matchScores.exe.config
+C:\Users\DELL\source\repos\matchScores\matchScores\bin\Debug\matchScores.exe
+C:\Users\DELL\source\repos\matchScores\matchScores\bin\Debug\matchScores.pdb
+C:\Users\DELL\source\repos\matchScores\matchScores\obj\Debug\matchScores.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\matchScores\matchScores\obj\Debug\matchScores.Form1.resources
+C:\Users\DELL\source\repos\matchScores\matchScores\obj\Debug\matchScores.Properties.Resources.resources
+C:\Users\DELL\source\repos\matchScores\matchScores\obj\Debug\matchScores.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\matchScores\matchScores\obj\Debug\matchScores.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\matchScores\matchScores\obj\Debug\matchScores.exe
+C:\Users\DELL\source\repos\matchScores\matchScores\obj\Debug\matchScores.pdb
