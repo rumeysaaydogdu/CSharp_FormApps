@@ -22,3 +22,7 @@ A user login form was created in the first form. If you login the username and p
 # Match Scores
 
 After 3 weeks, the colors and emblems of the champions of the 4 big teams are printed on the screen according to the randomly generated match scores.(Random class was used.) Each week's button can only be clicked once.
+
+![superLeague](https://user-images.githubusercontent.com/71151015/102262505-4097e100-3f24-11eb-9cb8-77873db1466e.PNG)
+![fbfbfb](https://user-images.githubusercontent.com/71151015/102262516-442b6800-3f24-11eb-9dc6-e50b653d21fc.PNG)
+
