@@ -19,3 +19,6 @@ A user login form was created in the first form. If you login the username and p
 ![five](https://user-images.githubusercontent.com/71151015/102026035-c3962b80-3dac-11eb-9a07-45c4583a415c.PNG)
 ![six](https://user-images.githubusercontent.com/71151015/102026037-c5f88580-3dac-11eb-9d51-2bf671fb6965.PNG)
 
+# Match Scores
+
+After 3 weeks, the colors and emblems of the champions of the 4 big teams are printed on the screen according to the randomly generated match scores.(Random class was used.) Each week's button can only be clicked once.
