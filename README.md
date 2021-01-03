@@ -21,14 +21,14 @@ A user login form was created in the first form. If you login the username and p
 
 # Match Scores
 
-After 3 weeks, the colors and emblems of the champions of the 4 big teams are printed on the screen according to the randomly generated match scores.(Random class was used.) Each week's button can only be clicked once.
+After 3 weeks, the colors and emblems of the champions of the 4 big teams are printed on the screen according to the randomly generated match scores (Random class was used). Each week's button can only be clicked once.
 
 ![superLeague](https://user-images.githubusercontent.com/71151015/102262505-4097e100-3f24-11eb-9cb8-77873db1466e.PNG)
 ![fbfbfb](https://user-images.githubusercontent.com/71151015/102262516-442b6800-3f24-11eb-9dc6-e50b653d21fc.PNG)
 
 # Dice Game
 
-This is a two-player dice game with the user (you) and the other person (the computer). Only one player can make a move in a turn per turn.  One "Play" button is on while the other is off. The dices' sum played in each move is shown on the player's chart and this sum is refreshed on the next move. Also general sum is show on the scoreboard. The game starts with the user (you) playing first, so the other person (the computer) makes the last move. If the sum of the dice numbers of one of the players equals 100 or exceeds 100, the game is over and the winner information is printed on the screen.
+This is a two-player dice game with the user (you) and the other person (the computer). Only one player can make a move in a turn per turn.  One "Play" button is on while the other is off. The dices' sum played in each move is shown on the player's chart and this sum is refreshed on the next move. Also general sum is show on the scoreboard. The game starts with the user (you) playing first, so the other person (the computer) makes the last move. After the moves are made, dice images of randomly generated numbers from 1 to 7 from the Random class appear on the screen (Random class was used). If the sum of the dice numbers of one of the players equals 100 or exceeds 100, the game is over and the winner information is printed on the screen.
 
 ![one](https://user-images.githubusercontent.com/71151015/103488887-7ba17c00-4e21-11eb-8a78-c6cd6f87f3d3.PNG)
 ![two](https://user-images.githubusercontent.com/71151015/103488889-7e03d600-4e21-11eb-8b93-c891507bd76d.PNG)
