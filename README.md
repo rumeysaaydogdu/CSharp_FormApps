@@ -28,3 +28,6 @@ After 3 weeks, the colors and emblems of the champions of the 4 big teams are pr
 
 # Dice Game
 
+![one](https://user-images.githubusercontent.com/71151015/103488887-7ba17c00-4e21-11eb-8a78-c6cd6f87f3d3.PNG)
+![two](https://user-images.githubusercontent.com/71151015/103488889-7e03d600-4e21-11eb-8b93-c891507bd76d.PNG)
+![three](https://user-images.githubusercontent.com/71151015/103488890-7fcd9980-4e21-11eb-9dfe-1afd52735491.PNG)
