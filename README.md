@@ -28,6 +28,8 @@ After 3 weeks, the colors and emblems of the champions of the 4 big teams are pr
 
 # Dice Game
 
+This is a two-player dice game with the user (you) and the other person (the computer). Only one player can make a move in a turn per turn.  One "Play" button is on while the other is off. The dices' sum played in each move is shown on the player's chart and this sum is refreshed on the next move. Also general sum is show on the scoreboard. The game starts with the user (you) playing first, so the other person (the computer) makes the last move. If the sum of the dice numbers of one of the players equals 100 or exceeds 100, the game is over and the winner information is printed on the screen.
+
 ![one](https://user-images.githubusercontent.com/71151015/103488887-7ba17c00-4e21-11eb-8a78-c6cd6f87f3d3.PNG)
 ![two](https://user-images.githubusercontent.com/71151015/103488889-7e03d600-4e21-11eb-8b93-c891507bd76d.PNG)
 ![three](https://user-images.githubusercontent.com/71151015/103488890-7fcd9980-4e21-11eb-9dfe-1afd52735491.PNG)
