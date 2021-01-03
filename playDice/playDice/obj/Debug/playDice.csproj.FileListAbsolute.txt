@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\playDice\playDice\bin\Debug\playDice.exe.config
+C:\Users\DELL\source\repos\playDice\playDice\bin\Debug\playDice.exe
+C:\Users\DELL\source\repos\playDice\playDice\bin\Debug\playDice.pdb
+C:\Users\DELL\source\repos\playDice\playDice\obj\Debug\playDice.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\playDice\playDice\obj\Debug\playDice.Form1.resources
+C:\Users\DELL\source\repos\playDice\playDice\obj\Debug\playDice.Properties.Resources.resources
+C:\Users\DELL\source\repos\playDice\playDice\obj\Debug\playDice.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\playDice\playDice\obj\Debug\playDice.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\playDice\playDice\obj\Debug\playDice.exe
+C:\Users\DELL\source\repos\playDice\playDice\obj\Debug\playDice.pdb
