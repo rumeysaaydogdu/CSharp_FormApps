@@ -35,3 +35,6 @@ This is a two-player dice game with the user (you) and the other person (the com
 ![three](https://user-images.githubusercontent.com/71151015/103488890-7fcd9980-4e21-11eb-9dfe-1afd52735491.PNG)
 
 ## Calculator
+
+![one](https://user-images.githubusercontent.com/71151015/121149645-82f30880-c84b-11eb-9a62-052dbc13f24d.PNG)
+![two](https://user-images.githubusercontent.com/71151015/121149658-85556280-c84b-11eb-85da-20815fae4016.PNG)
