@@ -1,0 +1,20 @@
+C:\Users\DELL\source\repos\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe.config
+C:\Users\DELL\source\repos\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe
+C:\Users\DELL\source\repos\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.pdb
+C:\Users\DELL\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\DELL\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\DELL\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.exe
+C:\Users\DELL\source\repos\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.pdb
+C:\Users\DELL\source\repos\FORM UYGULAMALARI\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe.config
+C:\Users\DELL\source\repos\FORM UYGULAMALARI\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.exe
+C:\Users\DELL\source\repos\FORM UYGULAMALARI\Hesap_Makinesi\Hesap_Makinesi\bin\Debug\Hesap_Makinesi.pdb
+C:\Users\DELL\source\repos\FORM UYGULAMALARI\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\FORM UYGULAMALARI\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\DELL\source\repos\FORM UYGULAMALARI\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\DELL\source\repos\FORM UYGULAMALARI\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\FORM UYGULAMALARI\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FORM UYGULAMALARI\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.exe
+C:\Users\DELL\source\repos\FORM UYGULAMALARI\Hesap_Makinesi\Hesap_Makinesi\obj\Debug\Hesap_Makinesi.pdb
